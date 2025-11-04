@@ -47,3 +47,5 @@ Muitas das **dependências** referentes ao Linux podem ser ignoradas caso se des
 
 ```bash
 git clone https://github.com/usuario/nome-do-projeto.git
+```
+- Execute o arquivo **main.py**
